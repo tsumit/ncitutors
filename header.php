@@ -142,7 +142,7 @@ font-weight:bold;
                 <div class="header-wrap clearfix">
                     <div id="logo" class="logo" style="margin:5px; 173px; 0px; 0px;">
                         <a href="../index.php" rel="home">
-                            <p class="mng-logo "><img src=" icon/logonci.png" height=100 width=100 ></p>
+                            <p class="mng-logo "><img src=" front/icon/logonci.png" height=100 width=100 ></p>
                         </a>
                     </div><!-- /.logo -->            
                     <div class="nav-wrap">
