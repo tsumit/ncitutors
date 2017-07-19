@@ -74,7 +74,7 @@ font-weight:bold;
     				<div class="row">
     					<div class="col-md-12">
     						<div class="text-information">
-    							<p>Welcome to Educate NCI Tutors</p>
+    							<p>Welcome to NCI Tutors</p>
     						</div>
                             <div class="right-bar">
         						<ul class="flat-information">

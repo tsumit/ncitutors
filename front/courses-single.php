@@ -10,7 +10,7 @@ $teach_id=$_GET["x"];
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>Educate - Education HTML Templates</title>
+    <title>Nci Tutors</title>
 
     <meta name="author" content="themesflat.com">
 

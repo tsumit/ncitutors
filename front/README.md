@@ -35,3 +35,16 @@ support files
 
 https://ncitutors-anjit11.c9users.io/phpmyadmin
 
+Deployed Link ----https://tsumit.github.io/ncitutors/
+
+Home page --https://ncitutors-anjit11.c9users.io/index.php
+Tuttor login 
+username - mark  
+password -- mark 1
+
+Admin page link--https://ncitutors-anjit11.c9users.io/admin/index.php
+Username - super 
+Password - super
+
+
+

@@ -36,7 +36,7 @@ include('front/config.php');
     <!-- Favicon and touch icons  -->
     <link href="front/icon/apple-touch-icon-48-precomposed.png" rel="apple-touch-icon-precomposed" sizes="48x48">
     <link href="front/icon/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon-precomposed" sizes="57x57">
-    <link href="front/icon/favicon.png" rel="shortcut icon">
+    <!-- <link href="front/icon/favicon.png" rel="shortcut icon">  -->
 
     <!--[if lt IE 9]>
         <script src="javascript/html5shiv.js"></script>
@@ -103,7 +103,7 @@ width:100%;
 										
 										?> 
                         <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
-                            <img src="admin/images/<?php echo $read['image']; ?>" alt="slider-image" />
+                            <img src="admin/images/<?php echo $read['image1']; ?>" alt="slider-image" />
                          </li>
                         
                         <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
